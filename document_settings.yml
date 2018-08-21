@@ -1,4 +1,6 @@
+---
 document:
-  name: Anagrafe
-  description: |
-    Un documento di test sull'anagrafe del Comune.
+  name: "Anagrafe"
+  description: "Un documento di test sull'anagrafe del Comune."
+  tags:
+    - "anagrafe"
