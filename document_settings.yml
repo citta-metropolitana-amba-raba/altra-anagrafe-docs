@@ -1,6 +1,6 @@
 ---
 document:
-  name: "Anagrafe"
+  name: "Altra Anagrafe"
   description: "Un documento di test sull'anagrafe del Comune."
   tags:
     - "anagrafe"
