@@ -13,6 +13,7 @@ Nel Capitolo 2 vengono presentati ...
 | Nota [1]_                   |
 +-----------------------------+
 
+Altra nota [2]_
 
 .. toctree::
 
@@ -20,3 +21,5 @@ Nel Capitolo 2 vengono presentati ...
    _docs/cap2.rst
 
 .. [1] Nota a piè di pagina.
+
+.. [2] Nota fuori dalla tabella
