@@ -2,8 +2,7 @@
 Anagrafe con l'apostrofo
 ########################
 
-.. toctree::
-   index.rst
+.. contents::
 
 Questo documento descrive ... 
 
