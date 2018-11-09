@@ -3,6 +3,7 @@ Anagrafe con l'apostrofo
 ########################
 
 .. contents::
+   :local:
 
 Questo documento descrive ... 
 
