@@ -2,10 +2,18 @@
 Anagrafe con l'apostrofo
 ########################
 
+.. toctree::
+   index.rst
 
 Questo documento descrive ... 
 
+Sezione 1
+=========
+
 Nel Capitolo 1 vengono presentati ... 
+
+Sezione 2
+=========
 
 Nel Capitolo 2 vengono presentati ...
 
